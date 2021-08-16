@@ -12,8 +12,10 @@ $ yarn install
 
 ## Technologies
 
-It uses the tecnologies:
+It uses the MERN tecnologies:
 
+* MongoDB
 * Express
 * React
+* Node
 * Jest
