@@ -16,6 +16,7 @@ It uses the MERN tecnologies:
 
 * MongoDB
 * Express
-* React
+* React/React Charts
 * Node
+* yarn
 * Jest
