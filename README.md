@@ -1,6 +1,8 @@
 # else
 Electromagnetic Sensor
 
+[Documents](https://github.com/monsenhor/else/wiki)
+
 This is a practicing project, created to study TBD under Agile mindset.
 
 ## Install
@@ -20,3 +22,5 @@ It uses the MERN tecnologies:
 * Node
 * yarn
 * Jest
+
+
